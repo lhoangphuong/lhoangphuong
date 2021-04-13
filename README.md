@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lhoangphuong
 - 👀 I’m interested in DevOps stuffs
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and k8s
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
